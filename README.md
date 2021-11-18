@@ -1,5 +1,5 @@
 # Hi there 👋
 
-Jestem studentem Informatyki (Inżynieria Oprogramowania) na piątym semestrze i poszukuję praktyk/stażu aby zdobyć doświadczenie w branży IT.
+I'm Software engineering student. I'm looking for an apprenticeship or an internship.
 
-Link do mojego LinkedIn'a: www.linkedin.com/in/kacper-śniadek-9403bb213
+My LinkedIn: www.linkedin.com/in/kacper-śniadek-9403bb213
